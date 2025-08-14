@@ -1,4 +1,4 @@
-# IMDB Movies Analysis — Python EDA & Insights
+# IMDB Movies Analysis
 
 ## Project Overview
 This project explores **IMDB movie data** containing **10,000+ records**, focusing on:
